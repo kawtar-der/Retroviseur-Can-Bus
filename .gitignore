@@ -1,0 +1,13 @@
+# Arduino
+*.hex
+*.elf
+*.bin
+build/
+.vscode/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
