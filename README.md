@@ -3,7 +3,6 @@
 Projet de fin d'études (BTS Systèmes Électroniques) : une interface **bus CAN** pour commander à distance les rétroviseurs électriques d'une voiture, à l'aide de deux cartes Arduino Uno et de modules MCP2515.
 
 > 🎓 Lycée technique de Fès, filière Systèmes Électroniques, 2024
-> 📄 Le rapport complet (66 pages) est disponible dans [`docs/rapport-PFE.pdf`](docs/rapport-PFE.pdf).
 
 ## Principe
 
@@ -90,7 +89,6 @@ Le rétroviseur utilisé pour les essais est un rétroviseur électrique **Dacia
 retroviseur-can-bus/
 ├── CAN_write/CAN_write.ino   # Nœud émetteur (boutons + LCD)
 ├── CAN_read/CAN_read.ino     # Nœud récepteur (moteurs)
-├── docs/rapport-PFE.pdf      # Rapport de projet
 └── README.md
 ```
 
@@ -115,4 +113,4 @@ Encadrant : M. Azougagh Houssine.
 
 ## Licence
 
-Projet pédagogique. Licence MIT, voir le fichier `LICENSE` (à ajouter).
+Projet pédagogique. Licence MIT, voir le fichier `LICENSE` .
